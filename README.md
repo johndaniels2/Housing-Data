@@ -12,13 +12,13 @@ We pulled our information from a data frame that had all the houses in King Coun
 
 We created a linear regression model that uses bedrooms, bathrooms, grade, square feet of living space, square feet of living space, square feet above the first floor, house age, and zipcode to predict price. 
 
-![Model_4](images/Model_4image.png)
+![Model_4](images/Model_4.png)
 
 # Results 
 
 Our model accounted for 76% of the variance for price of homes by looking at variables such as bedrooms, bathrooms, grade, square feet of living space, square feet of living space, square feet above the first floor, house age, and zipcode. Our two strongest predictors of price were zip code and square footage of living space. We created a map of King County that shows the average price in each zip code. We selected three zipcodes, 98118, 98045, and 98115, that fit the Danielson's budget and also gives them adequate living space. 
 
-![Zipcode_Data](images/Zipcode_graph.png)
+![Zipcode_Data](images/Zipcode_data.png)
 
 # Recommendations 
 
