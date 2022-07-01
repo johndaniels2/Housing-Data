@@ -23,3 +23,14 @@ Our model accounted for 76% of the variance for price of homes by looking at var
 # Recommendations 
 
 We believe the Danielsons should look at houses in the three zipcodes we provided. 
+
+Repository Structure:
+
+├──                                     # 
+    ├──                                  # 
+    ├──                           # 
+    └──                              # 
+├──                                       # 
+├──         # 
+├──                            # 
+└──                                   # 
