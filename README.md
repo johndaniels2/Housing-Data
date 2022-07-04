@@ -26,11 +26,11 @@ We believe the Danielsons should look at houses in the three zipcodes we provide
 
 Repository Structure:
 
-├──                                     # 
-    ├──                                  # 
-    ├──                           # 
-    └──                              # 
-├──                                       # 
-├──         # 
-├──                            # 
-└──                                   # 
+├── Data                                    # data frame used 
+    ├── column_names.md                     # different variables that we used to predict price based on high correlation
+    ├── kc_house_data.csv                   # different variables that we used to predict price based on high correlation                             
+├── Images                                  # images and graphics used
+    ├── Model_4.png                         # 
+    ├── Zipcode_data.png                    # 
+├── Housing_Notebook.ipynb                  # final notebook
+└── exploratory_notebook.ipynb              # notebook used to explore data
