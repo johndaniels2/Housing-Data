@@ -30,7 +30,8 @@ Repository Structure:
     ├── column_names.md                     # different variables that we used to predict price based on high correlation
     ├── kc_house_data.csv                   # different variables that we used to predict price based on high correlation                             
 ├── Images                                  # images and graphics used
-    ├── Model_4.png                         # 
-    ├── Zipcode_data.png                    # 
+    ├── Model_4.png                         # Graph that shows our model's prediction
+    ├── Zipcode_data.png                    # Data presented from each zipcode
+├── Presentation PDF                        # presentation with graphs
 ├── Housing_Notebook.ipynb                  # final notebook
 └── exploratory_notebook.ipynb              # notebook used to explore data
